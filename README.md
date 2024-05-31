@@ -2,7 +2,8 @@
 
 Welcome to my portfolio website repository! This project showcases my skills, projects, and experiences as a full stack developer. Explore the code, visit the live site, and feel free to provide feedback.
 
-![Portfolio Screenshot](Screenshot (21).png)
+![Home Page Screenshot](Screenshot (21).png)
+
 
 ## 🌟 Table of Contents
 
